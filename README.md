@@ -49,6 +49,9 @@ IT 기획을 출발점으로, 아이디어를 실제로 쓰이고 운영되는 �
 
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-5B5BD6?style=for-the-badge&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
