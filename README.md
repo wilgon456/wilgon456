@@ -74,11 +74,6 @@ IT 기획을 출발점으로, 아이디어를 실제로 쓰이고 운영되는 �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wilgon456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgon456&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wilgon456&theme=tokyo-night&hide_border=true&area=true)](https://github.com/wilgon456)
 
 </div>
