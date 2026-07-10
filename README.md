@@ -1,62 +1,113 @@
-# 한준 | HanJun (Tony)
+<div align="center">
 
-IT 기획자 베이스로 다양한 설계와 개발을 하고 있습니다
-아이디어가 현실에서 작동하는 순간을 사랑합니다 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Hanjun%20%7C%20Tony&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-<p align="left">
-  <a href="mailto:juncatz1945@gmail.com"><img src="https://img.shields.io/badge/Email-juncatz1945%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/wilgon456?tab=repositories"><img src="https://img.shields.io/badge/Projects-View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wilgon456&style=for-the-badge&color=6a5acd" />
-</p>
+# Hi, I'm Hanjun Kim 👋
 
-## 소개
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Product+Planner+%26+Builder;Designing+AI+Automation+That+Actually+Runs;Turning+Ideas+Into+Reliable+Workflows)](https://git.io/typing-svg)
 
-작은 아이디어를 끝까지 밀어붙여
-직접 쓰고, 굴리고, 개선할 수 있는 형태로 만드는 걸 좋아합니다.
+[![GitHub followers](https://img.shields.io/github/followers/wilgon456?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a)](https://github.com/wilgon456?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/wilgon456?style=for-the-badge&logo=github&label=Stars&color=0ea5e9&labelColor=0f172a)](https://github.com/wilgon456?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=wilgon456&style=for-the-badge&color=0ea5e9)](https://github.com/wilgon456)
 
-지금은 특히 이런 주제에 마음이 많이 가 있어요.
+</div>
 
-- AI 에이전트와 자동화 워크플로
-- 실전형 트레이딩 시스템과 운영 안정화
-- macOS / Windows 기반 생산성 도구
+---
 
-## 대표 프로젝트
+## 👨‍💻 About Me
 
-### AI Usage Dashboard
-여러 AI 서비스의 사용량과 구독 정보를 한곳에서 볼 수 있도록 설계한 크로스플랫폼 대시보드입니다.
-로컬 중심 구조를 바탕으로, 안전하고 실용적인 사용 경험을 만드는 데 집중하고 있습니다.
+IT 기획을 출발점으로, 아이디어를 실제로 쓰이고 운영되는 제품과 자동화로 만듭니다.
 
-### hermes-update-auto
-로컬 Hermes 환경을 매일 점검하고 필요한 경우에만 업데이트를 수행하는 자동화 도구입니다.
-단순한 실행보다 운영 흐름과 알림 경험까지 함께 다듬는 방향으로 만들고 있습니다.
+- AI 에이전트와 업무 자동화 워크플로 설계
+- 로컬 중심의 안전한 생산성 도구 개발
+- 운영 가능한 시스템, 명확한 로그, 반복 가능한 개선에 집중
 
-### ai-coin-bot
-Upbit 기반 AI 오버레이 트레이딩 시스템입니다.
-전략 레이어와 실행 레이어를 분리해, 실제 운영에서 중요한 상태 관리와 로그 구조를 갖추고 있습니다.
+> *Plan it clearly. Build it simply. Keep it running.*
 
-## 기술 스택
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
+## ✨ Featured Projects
 
-## GitHub Stats
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [AI Usage Dashboard](https://github.com/wilgon456/ai-usage-dashboard-public) | 여러 AI 서비스의 사용량과 구독 정보를 한곳에서 관리하는 데스크톱 대시보드 | Rust · Desktop App |
+| [AI CLI Auto Update](https://github.com/wilgon456/ai_cli_auto_update_public) | Codex, Claude Code, Gemini CLI의 업데이트를 보수적으로 자동화 | Shell · Automation |
+| [Hermes Auto Update](https://github.com/wilgon456/Hermes_Auto_Update) | Hermes Agent 업데이트와 공식 스킬 갱신을 점검하는 운영 도구 | Python · Agent Ops |
+| [Tony Project](https://github.com/wilgon456/Tony_Project) | 진행 프로젝트를 정리하고 소개하는 GitHub Pages 쇼케이스 | HTML · CSS |
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wilgon456&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgon456&layout=compact&theme=transparent&hide_border=true" />
-</p>
+---
 
-<p>
-  <img height="160" src="https://streak-stats.demolab.com?user=wilgon456&theme=transparent&hide_border=true&locale=ko" />
-</p>
+## 🛠️ Working Stack
 
-## 한 줄 소개
+<div align="center">
 
-기획에서 멈추지 않고, 끝까지 만들어서 실제로 작동하게 하는 사람.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+🔭 Building     AI automation and agent operations
+🧠 Exploring    Knowledge systems, MCP, and practical RAG
+⚙️ Improving    Reliable local-first developer workflows
+💬 Ask me about AI agents, automation, and product building
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=wilgon456&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilgon456&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wilgon456&theme=tokyo-night&hide_border=true&area=true)](https://github.com/wilgon456)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/wilgon456/wilgon456/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Blog-Read_My_Notes-0ea5e9?style=for-the-badge&logo=blogger&logoColor=white)](https://tuchizblog.today/)
+[![Email](https://img.shields.io/badge/Email-juncatz1945%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juncatz1945@gmail.com)
+[![Projects](https://img.shields.io/badge/Projects-View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilgon456?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Building useful things, then making them easier to run.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=100&section=footer" />
+
+</div>
