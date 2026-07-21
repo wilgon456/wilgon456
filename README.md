@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:38bdf8&height=180&section=header&text=Hanjun%20%7C%20Tony&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-# Hi, I'm Hanjun Kim 👋
+# Hi, I'm Hanjun Yu 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Product+Planner+%26+Builder;Designing+AI+Automation+That+Actually+Runs;Turning+Ideas+Into+Reliable+Workflows)](https://git.io/typing-svg)
 
