@@ -9,7 +9,7 @@
 <p>
   <a href="https://github.com/wilgon456?tab=followers"><img src="https://img.shields.io/github/followers/wilgon456?style=for-the-badge&logo=github&label=Followers&color=0ea5e9&labelColor=0f172a" alt="Followers" /></a>
   <a href="https://github.com/wilgon456?tab=repositories"><img src="https://img.shields.io/github/stars/wilgon456?style=for-the-badge&logo=github&label=Stars&color=0ea5e9&labelColor=0f172a" alt="Stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wilgon456&style=for-the-badge&color=0ea5e9&label=Profile+views" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wilgon456.wilgon456&left_color=%230f172a&right_color=%230ea5e9&left_text=Profile%20views" alt="Profile views" />
 </p>
 
 **English** · [한국어](README.ko.md)
