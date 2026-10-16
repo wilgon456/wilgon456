@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/cards.py", ".github/workflows/snake.yml"]
 
 permissions:
   contents: write
@@ -13,6 +16,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Draw project cards
+        run: python scripts/cards.py dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
